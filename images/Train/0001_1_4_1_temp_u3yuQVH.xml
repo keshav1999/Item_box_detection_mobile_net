@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PDF Invoices</folder>
+	<filename>0001_1_4_1_temp_u3yuQVH.jpg</filename>
+	<path>/Users/mac/Desktop/PDF Invoices/0001_1_4_1_temp_u3yuQVH.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2079</width>
+		<height>2855</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>1151</ymin>
+			<xmax>2079</xmax>
+			<ymax>2637</ymax>
+		</bndbox>
+	</object>
+</annotation>

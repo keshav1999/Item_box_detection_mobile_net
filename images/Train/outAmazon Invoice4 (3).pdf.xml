@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PDF Invoices</folder>
+	<filename>outAmazon Invoice4 (3).pdf.jpg</filename>
+	<path>/Users/mac/Desktop/PDF Invoices/outAmazon Invoice4 (3).pdf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1654</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>1028</ymin>
+			<xmax>1567</xmax>
+			<ymax>1467</ymax>
+		</bndbox>
+	</object>
+</annotation>

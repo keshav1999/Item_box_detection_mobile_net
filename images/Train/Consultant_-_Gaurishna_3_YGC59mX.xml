@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PDF Invoices</folder>
+	<filename>Consultant_-_Gaurishna_3_YGC59mX.jpeg</filename>
+	<path>/Users/mac/Desktop/PDF Invoices/Consultant_-_Gaurishna_3_YGC59mX.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4134</width>
+		<height>5847</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>1591</ymin>
+			<xmax>3562</xmax>
+			<ymax>3255</ymax>
+		</bndbox>
+	</object>
+</annotation>

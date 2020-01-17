@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PDF Invoices</folder>
+	<filename>outInvoice no. 302.pdf.jpg</filename>
+	<path>/Users/mac/Desktop/PDF Invoices/outInvoice no. 302.pdf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1653</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>781</ymin>
+			<xmax>1652</xmax>
+			<ymax>1336</ymax>
+		</bndbox>
+	</object>
+</annotation>

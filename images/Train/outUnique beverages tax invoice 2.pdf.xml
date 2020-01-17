@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PDF Invoices</folder>
+	<filename>outUnique beverages tax invoice 2.pdf.jpg</filename>
+	<path>/Users/mac/Desktop/PDF Invoices/outUnique beverages tax invoice 2.pdf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>135</xmin>
+			<ymin>724</ymin>
+			<xmax>1525</xmax>
+			<ymax>1388</ymax>
+		</bndbox>
+	</object>
+</annotation>

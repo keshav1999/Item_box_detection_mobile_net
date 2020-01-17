@@ -1,0 +1,26 @@
+<annotation>
+	<folder>PDF Invoices</folder>
+	<filename>outSupply Outward - 2538.pdf.jpg</filename>
+	<path>/Users/mac/Desktop/PDF Invoices/outSupply Outward - 2538.pdf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1700</width>
+		<height>2200</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>751</ymin>
+			<xmax>1598</xmax>
+			<ymax>1544</ymax>
+		</bndbox>
+	</object>
+</annotation>
